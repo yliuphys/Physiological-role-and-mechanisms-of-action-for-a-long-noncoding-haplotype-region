@@ -1,4 +1,5 @@
 #make sure all files are in the current folder and current folder is the working directory
+#change the .cool file name accordingly
 
 library(HiCcompare)
 
